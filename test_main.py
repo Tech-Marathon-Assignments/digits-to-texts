@@ -1,3 +1,5 @@
+from main import main
+
 # Test Case 1:
 # Input: 123
 # Output: “one hundred and twenty-three”
